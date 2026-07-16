@@ -3,6 +3,8 @@
 
 <img width="1024" height="1024" alt="16 jul 2026, 10_26_46 a m" src="https://github.com/user-attachments/assets/d10f2619-70de-40de-9acd-37cb3ce08576" />  
 
+<img width="1274" height="1078" alt="image" src="https://github.com/user-attachments/assets/d05e2ce2-1af3-4107-bf9b-bfe8f426d54d" />  
+
 ```
 
 ## 📋 Descripción
